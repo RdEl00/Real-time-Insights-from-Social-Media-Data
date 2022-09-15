@@ -5,3 +5,7 @@ Fear of missing out, curiosity, self-esteem, speed: it's like social media has c
 In this Project, I used pre-downloaded datasets to understand the nuts and bolts of Twitter Data. In particular, I did a thorough analysis of a hot-trend.
 
 *Warning: Some of the tweets in the Twitter datasets contain explicit language.*
+
+<p align="left">
+  <a href="https://nbviewer.org/github/RdEl00/Real-time-Insights-from-Social-Media-Data/blob/master/notebook.ipynb"><img src=https://img.shields.io/badge/Jupyter-Open%20Notebook-orange?></a>
+</p>
