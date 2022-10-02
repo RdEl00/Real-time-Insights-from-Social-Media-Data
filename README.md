@@ -9,5 +9,5 @@ In this Project, I used pre-downloaded datasets to understand the nuts and bolts
 *Warning: Some of the tweets in the Twitter datasets contain explicit language.*
 
 <p align="left">
-  <a href="https://nbviewer.org/github/RdEl00/Real-time-Insights-from-Social-Media-Data/blob/master/notebook.ipynb"><img src=https://img.shields.io/badge/Jupyter-Open%20Notebook-orange?></a>
+  <a href="https://nbviewer.org/github/RdEl00/Real-time-Insights-from-Social-Media-Data/blob/master/Real-time-Insights.ipynb"><img src=https://img.shields.io/badge/Jupyter-Open%20Notebook-orange?></a>
 </p>
